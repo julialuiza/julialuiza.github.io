@@ -9,7 +9,7 @@
 }
 
 .bg-image {
-  background-image: url('../imgs/welcome.png');
+  background-image: url('welcome.png');
   background-size: contain;
   background-position: center;
 }
