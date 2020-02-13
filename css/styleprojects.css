@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+
+
+html, body{
+	font-family: 'Roboto', sans-serif;
+	height: 100%;
+}
+
+.custom-hr{
+	border: 1px solid #e0ebeb !important;
+}
+
+#skills{
+	text-decoration: underline #466d6d;
+}
